@@ -414,6 +414,7 @@ button {
   line-height: 36px;
   letter-spacing: 0.06em;
   color: #212121;
+  padding-left: 10px;
 }
 
 .portfolio-img-subheading {
@@ -423,8 +424,8 @@ button {
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.03em;
-
   color: #757575;
+  padding-left: 10px;
 }
 
 /* Footer Section*/
